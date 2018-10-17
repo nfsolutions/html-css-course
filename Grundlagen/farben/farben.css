@@ -9,3 +9,23 @@
   width: 300px;
   background-color: #33FFEE;
 }
+
+#rgb {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(33,77,99);
+}
+
+#rgba {
+  height: 300px;
+  width: 300px;
+  background-color: rgba(94,180,199, 0.2);
+}
+
+.hintergrund {
+  height: 400px;
+  width: 400px;
+  padding: 50px;
+  box-sizing: border-box;
+  background-color: rgb(40,60,80);
+}
