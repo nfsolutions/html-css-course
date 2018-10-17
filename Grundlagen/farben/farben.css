@@ -29,3 +29,15 @@
   box-sizing: border-box;
   background-color: rgb(40,60,80);
 }
+
+#hsl {
+  height: 300px;
+  width: 300px;
+  background-color: hsl(167,77%,15%);
+}
+
+#hsla {
+  height: 300px;
+  width: 300px;
+  background-color: hsla(44,33%,53%, 0.1);
+}
